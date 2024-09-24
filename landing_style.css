@@ -7,6 +7,7 @@
     font-weight: 500;
     font-style: normal;
     box-sizing: border-box;
+    /* overflow-y: hidden; */
 }
 
 html,
@@ -221,4 +222,8 @@ body {
         min-height: 30vh;
         background-position: left;
     }
+}
+
+.icons i {
+    font-size: 1.5rem;
 }
